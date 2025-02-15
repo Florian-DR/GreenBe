@@ -1,1 +1,58 @@
+// //Internal Import
+// @import "_config";
 
+// #services{
+//     display: flex;
+//     flex-direction: column;
+//     margin-top: 85px;
+//     gap: 50px;
+// }
+
+// .service{
+//     position: relative;
+//     .service-title{
+//         position: absolute;
+//         text-align: center;
+//         width: 30%;
+//         background-color: $lighBg;
+//         z-index: 1;
+//         top: 10px;
+//         border-radius: $radius;
+//         padding: 20px;
+//         min-width: 157px;
+//     }
+
+//     .normal{
+//         left: 0px;
+//     }
+
+//     .reverse{
+//         right: 0px;
+//     }
+
+    
+//     .service-content{
+//         position: relative;
+//         width: 75%;
+//         background-color: $darkBg;
+//         top: 0px;
+//         right: 0px;
+//         border-radius: $radius;
+//         padding: 20px;
+//     }
+
+//     // .reverse-content{
+//     //     left: 16.5vw;
+//     // }
+// }
+
+// .service-reverse{
+//     display: flex;
+//     justify-content: end;
+// }
+
+
+.service{
+    background-color: $darkBg;
+    opacity: 0.7;
+}
